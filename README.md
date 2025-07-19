@@ -15,7 +15,7 @@ Tô na missão de trocar o capacete pelo teclado e mostrar que com foco e práti
 - Vite (iniciando projetos mais rápido)
 
 ### ⚡ Projetos que já coloquei na pista:
-- Rick and Morty Explorer – usando API + JS puro ([ver repositório](https://github.com/seu-usuario/seu-repo))
+- Rick and Morty Explorer – usando API + JS puro ([https://github.com/otaviogaldino/rick-and-morty](https://github.com/seu-usuario/seu-repo))
 
 ### 🎯 Objetivo:
 Virar dev front-end profissional, dominando React, boas práticas e responsividade.  
