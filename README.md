@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Eai, Eu sou o Otávio!
 
-<!--
-**otaviogaldino/otaviogaldino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Motoboy virando dev front-end 🚀  
+Tô na missão de trocar o capacete pelo teclado e mostrar que com foco e prática, qualquer um pode entrar na área.
 
-Here are some ideas to get you started:
+### 👨‍💻 No momento estudando:
+- HTML, CSS (responsivo) e JavaScript puro
+- Como transformar um layout do Figma em código
+- Consumo de APIs (REST)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Ferramentas que já uso:
+- VS Code
+- Git e GitHub
+- Figma (visualizar layout)
+- Vite (iniciando projetos mais rápido)
+
+### ⚡ Projetos que já coloquei na pista:
+- Rick and Morty Explorer – usando API + JS puro ([ver repositório](https://github.com/seu-usuario/seu-repo))
+
+### 🎯 Objetivo:
+Virar dev front-end profissional, dominando React, boas práticas e responsividade.  
+E quem sabe um dia... ensinar outros a fazer o mesmo caminho. 😉
+
+---
+
+📬 **Contato:**  
+suaresotavio@gmail.com
+
