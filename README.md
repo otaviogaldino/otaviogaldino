@@ -12,7 +12,6 @@ Tô na missão de trocar o capacete pelo teclado e mostrar que com foco e práti
 - VS Code
 - Git e GitHub
 - Figma (visualizar layout)
-- Vite (iniciando projetos mais rápido)
 
 ### ⚡ Projetos que já coloquei na pista:
 - Rick and Morty Explorer – usando API + JS puro [rick and morty](https://github.com/otaviogaldino/rick-and-morty)
