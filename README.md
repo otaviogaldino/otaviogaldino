@@ -4,7 +4,7 @@ Motoboy virando dev front-end 🚀
 Tô na missão de trocar o capacete pelo teclado e mostrar que com foco e prática, qualquer um pode entrar na área.
 
 ### Meu portifólio:
-- [clique aqui](https://otaviogaldino.github.io/portifolio) 
+- [clique aqui](https://otaviogaldinoo.github.io/portifolio) 
 
 ### 👨‍💻 No momento estudando:
 - HTML, CSS (responsivo) e JavaScript puro
