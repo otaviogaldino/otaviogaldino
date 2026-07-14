@@ -1,31 +1,48 @@
-## 👋 Eai, Eu sou o Otávio!
+## 👋 E aí, eu sou o Otávio!
 
-Motoboy virando dev front-end 🚀  
-Tô na missão de trocar o capacete pelo teclado e mostrar que com foco e prática, qualquer um pode entrar na área.
+Motoboy virando desenvolvedor 🚀
+Estou na missão de trocar o capacete pelo teclado e mostrar que, com foco, prática e consistência, qualquer pessoa pode entrar na área de tecnologia.
 
-### Meu portifólio:
-- [clique aqui](https://otaviogaldinoo.github.io/portifolio) 
+### 🌐 Meu portfólio
 
-### 👨‍💻 No momento estudando:
-- HTML, CSS (responsivo) e JavaScript puro
-- Como transformar um layout do Figma em código
-- Consumo de APIs (REST)
+* [Acesse meu portfólio](https://otaviogaldinoo.github.io/portifolio)
 
-### 🛠️ Ferramentas que já uso:
-- VS Code
-- Git e GitHub
-- Figma (visualizar layout)
+### 👨‍💻 Atualmente estudando
 
-### ⚡ Projetos que já coloquei na pista:
-- Rick and Morty Explorer – usando API + JS puro [rick and morty](https://github.com/otaviogaldino/rick-and-morty)
-- Pokedex - usando API + JS puro [pokedex](https://github.com/otaviogaldino/pokedex)
+* Python em nível intermediário
+* Lógica de programação e resolução de problemas
+* Manipulação de arquivos e dados com Python
+* Git e GitHub para versionamento de projetos
 
-### 🎯 Objetivo:
-Virar dev front-end profissional, dominando React, boas práticas e responsividade.  
-E quem sabe um dia... ensinar outros a fazer o mesmo caminho. 😉
+Também continuo aprimorando meus conhecimentos em:
+
+* HTML, CSS responsivo e JavaScript puro
+* Transformação de layouts do Figma em código
+* Consumo de APIs REST
+
+### 🛠️ Ferramentas e tecnologias
+
+* Python
+* HTML, CSS e JavaScript
+* VS Code
+* Git e GitHub
+* Figma
+
+### ⚡ Projetos front-end que já coloquei na pista
+
+* **Rick and Morty Explorer** — aplicação desenvolvida com JavaScript puro e consumo de API
+  [Ver projeto no GitHub](https://github.com/otaviogaldino/rick-and-morty)
+
+* **Pokédex** — aplicação desenvolvida com JavaScript puro e consumo de API
+  [Ver projeto no GitHub](https://github.com/otaviogaldino/pokedex)
+
+### 🎯 Objetivo
+
+Me tornar um desenvolvedor profissional, construindo uma base sólida em programação, Python e desenvolvimento front-end.
+
+Quero continuar evoluindo, criar projetos cada vez mais completos e, quem sabe um dia, ajudar outras pessoas que também estão começando nessa caminhada. 😉
 
 ---
 
-📬 **Contato:**  
-suaresotavio@gmail.com
-
+📬 **Contato:**
+[suaresotavio@gmail.com](mailto:suaresotavio@gmail.com)
